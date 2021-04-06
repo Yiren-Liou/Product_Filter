@@ -1,0 +1,24 @@
+$fontSizeS: 1.25rem;  // 20
+$fontSizeM: 1.5rem;   // 24
+$fontSizeL: 2rem;     // 36
+
+$primaryColor: #00807E;
+
+.fontSizeS{
+  font-size: $fontSizeS;
+}
+.fontSizeM{
+  font-size: $fontSizeM;
+}
+.fontSizeL{
+  font-size: $fontSizeL;
+}
+
+.bgPrimary{
+  background-color: $primaryColor;
+  color: #fff;
+}
+
+.textPrimary{
+  color: $primaryColor;
+}
